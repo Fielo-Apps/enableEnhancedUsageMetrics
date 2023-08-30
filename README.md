@@ -21,3 +21,6 @@ WHERE TimeSegment='Daily' AND UsageType='PUBLISH' AND StartDate >= LAST_N_DAYS:1
 
 Check the results:
 ![EventsUsage](https://raw.githubusercontent.com/tibeal/images/master/image-4.png)
+
+## Source
+[enableEnhancedUsageMetrics](https://sforce.co/45Kjwq9)
