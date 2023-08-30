@@ -18,3 +18,6 @@ SELECT EventName, Client, Value, StartDate, EndDate
 FROM PlatformEventUsageMetric
 WHERE TimeSegment='Daily' AND UsageType='PUBLISH' AND StartDate >= LAST_N_DAYS:1 AND EndDate <= TODAY
 ```
+
+Check the results:
+![EventsUsage](https://raw.githubusercontent.com/tibeal/images/master/image-4.png)
