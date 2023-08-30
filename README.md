@@ -23,4 +23,4 @@ Check the results:
 ![EventsUsage](https://raw.githubusercontent.com/tibeal/images/master/image-4.png)
 
 ## Source
-[enableEnhancedUsageMetrics](https://sforce.co/45Kjwq9)
+- [Get Enhanced Event Usage Metrics](https://sforce.co/45Kjwq9) By Salesforce
